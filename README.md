@@ -1,2 +1,1 @@
-# js
-a code repo for js
+console.log('hello')
